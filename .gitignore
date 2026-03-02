@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.out
+*.dll
+
+# Build directories
+/bin/
+/build/
+
+# Go test files
+*.test
+
+# IDE files (VS Code)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
