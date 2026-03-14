@@ -151,8 +151,3 @@ git checkout -b feature-name
 4. Push to your fork  
 5. Create a Pull Request
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
