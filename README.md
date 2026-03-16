@@ -120,18 +120,3 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 ```
 
 ---
-
-## Future Improvements
-
-Possible enhancements:
-
-- Add REST API endpoints
-- Implement middleware
-- Add logging
-- Add database integration
-- Dockerize the server
-- Add authentication (JWT)
-
----
-
-
