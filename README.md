@@ -1,6 +1,6 @@
 # Go Server
 
-A lightweight HTTP server built with **Golang** that demonstrates how to create and run a simple backend service using Go’s standard libraries.
+A lightweight HTTP server built with **Golang** language that demonstrates how to create and run a simple backend service using Go’s standard libraries.
 
 This project serves as a **minimal starting point for building web servers or REST APIs in Go**. It shows how to handle HTTP requests, structure a basic Go application, and run a server locally.
 
